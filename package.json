@@ -1,0 +1,31 @@
+{
+  "name": "umonya-diet-requirements",
+  "version": "0.0.1",
+  "description": "A Vumi Go USSD application to get dietary requirements.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "vumigo_v01": "0.1.x"
+  },
+  "devDependencies": {
+    "mocha": "~1.7.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Rizziepit/umonya-diet-requirements"
+  },
+  "keywords": [
+    "vumi",
+    "ussd",
+    "google",
+    "maps"
+  ],
+  "author": "Rizmari Versfeld <riz@umonya.com>",
+  "license": "BSD",
+  "readmeFilename": "README"
+}
